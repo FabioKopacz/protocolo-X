@@ -32,4 +32,8 @@
             <li style="font-weight: 800;">git pull</li>
          </ul>
       </div>
+      <div> 
+         <h2>Adicionando o projeto ao Ren'Py launcher</h2>
+         <p>Abre o launcher, em seguida vá em preferencias e selecione a pasta de projetos anterior a de seu projeto clonado e pronto agora só reinicie o launcher ou atulize os projetos à esquerda e ele deve estar listado lá.</p>
+      </div>
    </div>
